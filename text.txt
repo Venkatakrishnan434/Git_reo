@@ -1,3 +1,2 @@
 Hello
 For using git add -all
-hi
