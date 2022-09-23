@@ -1,0 +1,6 @@
+sha1 = "07635b35e71646c4cd5b0d96f7383a453f375432"
+sha256 = "68b68e5ddecbc7c24177d79750022d1b24dab58b6213fddc2ee9d7f5a5fddebd"
+sha512 = "d804b162de835dae062659f7849504691149184f77436533205f1f9406526071b54f83f02f08cc626fe60b9daac7e69cfb921c78f0d233d38d99802adfca3700"
+p "Length of SHA 1 =  #{sha1.length}"
+p "Length of SHA 256 = #{sha256.length}"
+p "Length of SHA 512 = #{sha512.length}"
